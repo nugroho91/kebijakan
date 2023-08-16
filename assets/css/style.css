@@ -1,0 +1,26 @@
+h1{
+    font-size: 26px;
+    color: rgb(18, 71, 141);
+}
+h2{
+    font-size: 18px;
+}
+ul>li ,p{
+    font-size: 14px;
+}
+
+.fixed-header{
+    position: sticky;
+    top: 0;
+    background-color: #FFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+    margin-bottom: 20px;
+}
+
+.navbar-brand img{
+    width: 200px;
+}
+
+.container{
+    max-width: 1000px;
+}
